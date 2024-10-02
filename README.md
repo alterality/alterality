@@ -1,5 +1,5 @@
 # AlterAlity
-![Alt](image(1).png)
+![Alt](main/image(1).png)
 
 
 
