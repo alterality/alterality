@@ -37,5 +37,5 @@ CSS                      0  repos            ░░░░░░░░░░░�
 ```
 
 ## <div style="text-align:center;"> Portfolio Projects </div>
-![Alt](image(1).png)
+![Alt](cyberpunk_style_glitch_v2.gif)
 # ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓
