@@ -1,7 +1,9 @@
 # AlterAlity
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20world!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Добро%20пожаловать%20на%20мой%20GitHub%20Alterality%20&descAlignY=51&descAlign=62)
 
 
-## <div style="text-align: center;"> Hello ! I'm Eraaly, aka Alterality </div>
+## <div style="text-align: center;"> Hello ! I'm Eraaly, aka Alterality </div> 
+<img src="cyberpunk_style_glitch_v2.gif" alt="Alt" width="600" /> 
 
 ### <div style="text-align: center;"> Software developer from Bishkek </div>
 
@@ -27,6 +29,12 @@
 
 </div>
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alterality&theme=dark&hide_border=false&cache_buster=1)
+[![Light's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alterality&count_private=true&show_icons=true&theme=dark)](https://github.com/alterality)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alterality&layout=compact&theme=dark)](https://github.com/alterality)
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://github-profile-trophy.vercel.app/?username=alterality&theme=gruvbox_light&no-frame=false&no-bg=true&alterality-w=4)
+
 ```text
 HTML                     9  repos [DELETED]  ████████░░░░░░░░░░░░░░░░░   36.0 % 
 Java                     2  repos            ██░░░░░░░░░░░░░░░░░░░░░░░   8.0 % 
@@ -36,6 +44,10 @@ CSS                      9  repos [DELETED]  ████████░░░�
 
 ```
 
+
 ## <div style="text-align:center;"> Portfolio Projects </div>
-![Alt](cyberpunk_style_glitch_v2.gif)
 # ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Верь%20в%20себя,%20и%20мир%20поверит%20в%20тебя!&fontSize=40&animation=twinkling)
+
+
+[![](https://visitcount.itsvg.in/api?id=alterality&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
