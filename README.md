@@ -30,6 +30,7 @@
 </div>
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alterality&theme=dark&hide_border=false&cache_buster=1)
+______________________________________________________________________________________________
 [![Light's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alterality&count_private=true&show_icons=true&theme=dark)](https://github.com/alterality)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alterality&layout=compact&theme=dark)](https://github.com/alterality)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
